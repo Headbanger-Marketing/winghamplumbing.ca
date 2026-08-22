@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winghamplumbing.ca/sitemap-index.xml
